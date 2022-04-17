@@ -32,10 +32,11 @@ public class Main {
         }
         System.out.println();
         System.out.println();
+        
 
         // Task 3: Multiples of 3 or 5
 
-        System.out.println("Task 2: Task 3: Multiples of 3 or 5");
+        System.out.println("Task 3: Multiples of 3 or 5");
         System.out.println("Введите целое число n");
         int x = sc.nextInt();
         System.out.print("Сумма натуральных чисел меньших n и делящихся на 3 или на 5 = ");
